@@ -51,17 +51,17 @@
 	<a href="mailto:laibakamal003@gmail.com">
 		<img  alt="laibakamal003@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
 	</a>
-	<a href="https://twitter.com/iqra_sarwar_">
-		<img alt="@iqra_sarwar_ | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+	<a href="https://twitter.com/LaibaKamal13?s=09">
+		<img alt="@LaibaKamal13?s=09 | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
-	<a href="https://www.linkedin.com/in/iqrasarwar/">
-		<img alt="Iqra Sarwar| LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+	<a href="https://www.linkedin.com/in/laiba-kamal-645906213/">
+		<img alt="Laiba Kamal| LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<a href="https://www.codechef.com/users/iqrasarwar">
-		<img alt="Iqra Sarwar| CodeChef"  src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
+		<img alt="Laiba Kamal| CodeChef"  src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
 	</a>
-	<a href="https://github.com/iqrasarwar">
-		<img alt="Iqra Sarwar| GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+	<a href="https://github.com/laibakamal">
+		<img alt="Laiba Kamal| GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 	</a>
 	<br />
 </p>
