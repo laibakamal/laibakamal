@@ -16,16 +16,16 @@
 ## GitHub Analytics
 
 <p align="center">
-	<a href="https://github.com/iqrasarwar">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iqrasarwar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iqrasarwar&layout=compact&langs_count=8&theme=algolia"/>
+	<a href="https://github.com/laibakamal">
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=laibakamal&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=laibakamal&layout=compact&langs_count=8&theme=algolia"/>
 	</a>
-	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=iqrasarwar&show_icons=true&locale=en&layout=demo&theme=algolia" />
+	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=laibakamal&show_icons=true&locale=en&layout=demo&theme=algolia" />
 </p>
 
 ## Contribution Graph
 
-[![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iqrasarwar&theme=react-dark)](https://github.com/iqrasarwar)
+[![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=laibakamal&theme=react-dark)](https://github.com/laibakamal)
 
 ## Tech Stack
 
