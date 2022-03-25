@@ -57,7 +57,7 @@
 	<a href="https://www.linkedin.com/in/laiba-kamal-645906213/">
 		<img alt="Laiba Kamal| LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-	<a href="https://www.codechef.com/users/iqrasarwar">
+	<a href="https://www.hackerrank.com/laibakamal003">
 		<img alt="Laiba Kamal| Hackerrank"  src="https://img.shields.io/badge/Hackerrank-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
 	</a>
 	<a href="https://github.com/laibakamal">
