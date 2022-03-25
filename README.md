@@ -58,7 +58,7 @@
 		<img alt="Laiba Kamal| LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<a href="https://www.codechef.com/users/iqrasarwar">
-		<img alt="Laiba Kamal| CodeChef"  src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
+		<img alt="Laiba Kamal| Hackerrank"  src="https://img.shields.io/badge/Hackerrank-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
 	</a>
 	<a href="https://github.com/laibakamal">
 		<img alt="Laiba Kamal| GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
