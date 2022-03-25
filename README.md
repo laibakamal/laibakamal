@@ -48,8 +48,8 @@
 ## Let's Connect
 <br/>
 <p align="center">
-	<a href="mailto:iqrasarwarm012@gmail.com">
-		<img  alt="iqrasarwarm012@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
+	<a href="mailto:laibakamal003@gmail.com">
+		<img  alt="laibakamal003@gmail.com | Email" src="https://img.shields.io/badge/gmail-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=B23121" />
 	</a>
 	<a href="https://twitter.com/iqra_sarwar_">
 		<img alt="@iqra_sarwar_ | Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
