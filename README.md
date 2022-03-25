@@ -9,7 +9,7 @@
 - 📢 I Love to read books, teach and motivate my fellows
 
 	<a  align="center">
-![](https://komarev.com/ghpvc/?username=iqrasarwar&color=blueviolet&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=laibakamal&color=blueviolet&label=Profile+Views)
 	</a>
 
 
