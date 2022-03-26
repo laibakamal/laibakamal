@@ -1,6 +1,6 @@
-# Hey, I'm Laiba Kamal �
+# Hey, I'm Laiba Kamal!🙋🏻‍♀️
 
-### I am a Student, Developer, and Web Enthusiast
+## I am a Student, Developer, and Web Enthusiast
 - 😄 I am currently striving to learn, develop & Grow.
 - 🔭 I am currently working on ReactJs
 - 🌱 I am currently learning everything 🤣 but specifically expanding my knowledge in FrontEnd Development
