@@ -34,41 +34,41 @@
     <td align='center' width="190" height="150">
         <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
     </td>
-     <td align='center' width="190">
+     <td align='center' width="190" height="150">
         <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
     </td>
-    <td align='center' width="190">
+    <td align='center' width="190" height="150">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
-    <td align='center' width="190">
+    <td align='center' width="190" height="150">
         <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="60">
     </td>
 </tr>
 <tr>
-    <td align='center'>
+    <td align='center' height="150">
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"  width="60" height="40">
     </td>
-    <td align='center'>
+    <td align='center' height="150">
         <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
     </td>
-    <td align='center'>
+    <td align='center'height="150">
         <img src="https://camo.githubusercontent.com/f6f986e8481e344792ddd3d38c03fdbeb3873785677fe2de24ec1fb52ff13cda/68747470733a2f2f646f776e6c6f61642e6c6f676f2e77696e652f6c6f676f2f4d7953514c2f4d7953514c2d4c6f676f2e77696e652e706e67">
     </td>
-    <td align='center'>
+    <td align='center'height="150">
         <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
     </td>
 </tr>
 <tr>
-    <td align='center'>
+    <td align='center'height="150">
         <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" height="40" width="60">
     </td>
-    <td align='center'>
+    <td align='center'height="150">
         <img src="https://docs.microsoft.com/en-us/dotnet/csharp/">
     </td>
-    <td align='center'>
+    <td align='center'height="150">
         <img src="https://www.microsoft.com/en-us/sql-server" width="60">
     </td>
-    <td align='center'>
+    <td align='center'height="150">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
     </td>
 </tr>
