@@ -1,12 +1,11 @@
 # Hey, I'm Laiba Kamal!🙋🏻‍♀️
 
 ## I am a Software Engineering Student, Web Developer, and Tech Enthusiast👩🏻‍💻
-- 😄 I am currently striving to learn, develop & Grow.
-- 🔭 I am currently working on ReactJs
-- 🌱 I am currently learning everything 🤣 but specifically expanding my knowledge in FrontEnd Development
+- 🔬 I am currently trying to have fine grip on programming problems and their solutions.
+- ⚛️ I am also working on ReactJs.
 - 👯 I am looking to collaborate on Web Development Projects
-- 🥅 2022 Goals: Contribute to open source and learn Full Stack Development as much as possible
-- 📢 I Love to read books, teach and motivate my fellows
+- 🥅 2022 Goals: Learn Full Stack Development and improve my hard and soft skills as much as I can. 
+- 💁🏻 I Love to help others grow and reach their goals.
 
 	<a  align="center">
 ![](https://komarev.com/ghpvc/?username=laibakamal&color=blueviolet&label=Profile+Views)
