@@ -63,10 +63,10 @@
         <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" height="40" width="60">
     </td>
     <td align='center'height="150">
-        <img src="https://docs.microsoft.com/en-us/dotnet/csharp/">
+        <src="https://docs.microsoft.com/en-us/dotnet/csharp/">
     </td>
     <td align='center'height="150">
-        <img src="https://www.microsoft.com/en-us/sql-server" width="60">
+        <src="https://www.microsoft.com/en-us/sql-server" width="60">
     </td>
     <td align='center'height="150">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
