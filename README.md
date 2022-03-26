@@ -31,7 +31,7 @@
 
 <table width="100">
 <tr>
-    <td align='center' width="190">
+    <td align='center' width="190" height="150">
         <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
     </td>
      <td align='center' width="190">
