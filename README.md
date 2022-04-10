@@ -27,7 +27,7 @@
 [![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=laibakamal&theme=react-dark)](https://github.com/laibakamal)
 
 
-<h2><i>💻 Tech Stack</i></h2>
+<!-- <h2><i>💻 Tech Stack</i></h2>
 
 <table width="100">
 <tr>
@@ -75,6 +75,8 @@
 
     
 </table>
+
+-->
 
 <br />
 <br />
