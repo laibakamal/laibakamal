@@ -27,6 +27,14 @@
 [![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=laibakamal&theme=react-dark)](https://github.com/laibakamal)
 
 
+<h3 align="center">Isometric view of contributions in the last year</h3>
+<p align="center">
+	<a href="./profile-3d-contrib/profile-night-green.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+	</a>
+</p>
+
+
 <!-- <h2><i>💻 Tech Stack</i></h2>
 
 <table width="100">
