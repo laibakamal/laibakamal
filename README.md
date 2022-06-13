@@ -22,9 +22,10 @@
 	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=laibakamal&show_icons=true&locale=en&layout=demo&theme=algolia" />
 </p>
 
-##  Contribution Graph
+<!--##  Contribution Graph
 
 [![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=laibakamal&theme=react-dark)](https://github.com/laibakamal)
+-->
 
 
 
