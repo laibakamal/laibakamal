@@ -24,7 +24,7 @@
 
 
 
-<!--[![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=laibakamal&theme=react-dark)](https://github.com/laibakamal)-->
+[My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=laibakamal&theme=react-dark)](https://github.com/laibakamal)
 
 
 
