@@ -1,6 +1,4 @@
-# Hey, I'm Laiba Kamal!🙋🏻‍♀️
-
-## I am Laiba, a Software Engineer Fresh Graduate.👩🏻‍💻
+## Hey, I am Laiba, a Software Engineer Fresh Graduate.👩🏻‍💻
 - 🔬 I am currently trying to have fine grip on programming problems and their solutions.
 - ⚛️ I am also working on ReactJs.
 - 👯 I am looking to collaborate on Web Development Projects
