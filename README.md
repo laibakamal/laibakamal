@@ -1,4 +1,4 @@
-## Hey, I am Laiba, a Software Engineer Fresh Graduate.👩🏻‍💻
+## Hey, I am Laiba, a Software Engineer.👩🏻‍💻
 - 🔬 I am currently trying to have fine grip on programming problems and their solutions.
 - ⚛️ I am working as a Full Stack Web Developer. Working in MERN Stack (TypeScript).
 - 🥅 2024 Goals: Level-up my problem solving and development skills, anddd👀 some goals are best kept hidden, don't you think?😉
