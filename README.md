@@ -1,7 +1,7 @@
 ## Hey, I am Laiba, a Software Engineer Fresh Graduate.👩🏻‍💻
 - 🔬 I am currently trying to have fine grip on programming problems and their solutions.
-- ⚛️ I am also working on ReactJs.
-- 🥅 2023 Goals: Level-up my problem solving skills anddd👀 some goals are best kept hidden, don't you think?😉
+- ⚛️ I am working as a Full Stack Web Developer. Working in MERN Stack (TypeScript).
+- 🥅 2024 Goals: Level-up my problem solving and development skills, anddd👀 some goals are best kept hidden, don't you think?😉
 - 💁🏻 I Love to help others grow and reach their goals.
 
 	<a  align="center">
