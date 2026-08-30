@@ -1,6 +1,9 @@
+<!-- Upload stars.svg to this repo at assets/stars.svg for the animated shooting stars to work -->
+![](./assets/stars.svg)
+
 # Hi, I'm Laiba Kamal 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo&weight=700&size=24&duration=2500&pause=900&color=0F766E&center=false&vCenter=true&width=600&lines=Cofounder+%40+Modventrix+🚀;Full-Stack+Software+Engineer+💻;Production+AI+Features+(OpenAI+%26+Anthropic)+🤖;TypeScript+·+React+·+Next.js+·+Node.js+·+NestJS+⚡)](https://modventrix.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Archivo&weight=700&size=24&duration=2500&pause=900&color=2DD4BF&center=false&vCenter=true&width=600&lines=Cofounder+%40+Modventrix+🚀;Full-Stack+Software+Engineer+💻;Production+AI+Features+(OpenAI+%26+Anthropic)+🤖;TypeScript+·+React+·+Next.js+·+Node.js+·+NestJS+⚡)](https://modventrix.com)
 
 **Cofounder at [Modventrix](https://modventrix.com)** and **full-stack software engineer** with 3+ years building production **fintech** and **proptech** platforms end to end, from database to UI.
 
@@ -82,9 +85,10 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=laibakamal&show_icons=true&theme=tokyonight&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=laibakamal&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laibakamal&layout=compact&theme=tokyonight&hide_border=true)
+<!-- Note: the public stats instances rate-limit at busy times; cards may take a refresh to appear. For always-on cards, deploy your own copy of github-readme-stats to Vercel (5 min) and swap the domain below. -->
+![Stats](https://github-readme-stats.vercel.app/api?username=laibakamal&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![Streak](https://streak-stats.demolab.com/?user=laibakamal&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laibakamal&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 ## 🏆 GitHub Trophies
 
@@ -100,3 +104,5 @@
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/laibakamal003)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=laibakamal&color=0F766E&style=for-the-badge&label=Profile+Views)
+
+![](./assets/stars.svg)
