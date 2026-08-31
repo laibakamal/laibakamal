@@ -85,10 +85,10 @@
 
 ## 📊 GitHub Stats
 
-<!-- Note: the public stats instances rate-limit at busy times; cards may take a refresh to appear. For always-on cards, deploy your own copy of github-readme-stats to Vercel (5 min) and swap the domain below. -->
-![Stats](https://github-readme-stats.vercel.app/api?username=laibakamal&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+<!-- Stats and Top Langs run on Laiba's own Vercel deployment (never rate-limited). Trophies is on the shared public server and may load intermittently. -->
+![Stats](https://github-readme-stats-omega-nine-86.vercel.app/api?username=laibakamal&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 ![Streak](https://streak-stats.demolab.com/?user=laibakamal&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laibakamal&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+![Top Langs](https://github-readme-stats-omega-nine-86.vercel.app/api/top-langs/?username=laibakamal&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 ## 🏆 GitHub Trophies
 
