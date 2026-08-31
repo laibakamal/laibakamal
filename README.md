@@ -90,10 +90,6 @@
 ![Streak](https://streak-stats.demolab.com/?user=laibakamal&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats-omega-nine-86.vercel.app/api/top-langs/?username=laibakamal&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=laibakamal&theme=tokyonight&no-frame=true&margin-w=8&column=7)
-
 ---
 
 ## 📬 Let's Connect
