@@ -96,6 +96,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/laibakamal)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laibakamal003@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-laibakamal.vercel.app-1C2733?style=for-the-badge&logo=vercel&logoColor=white)](https://laibakamal.vercel.app)
 [![Modventrix](https://img.shields.io/badge/-modventrix.com-0F766E?style=for-the-badge)](https://modventrix.com)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/laibakamal003)
 
